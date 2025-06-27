@@ -48,8 +48,6 @@ Just open the page and start typing the drum keys — no setup needed!
 
 ## 📸 Screenshots
 
-> ✨ _Add screenshots below this section to show off your cool drum kit!_  
-> Here's a placeholder — replace it with actual images.
 <div align="center">
   <img width="1440" alt="Screenshot 2025-05-30 at 8 44 26 PM" src="https://github.com/user-attachments/assets/e12f4752-bb08-43dd-952f-4931665804f0" />
 
